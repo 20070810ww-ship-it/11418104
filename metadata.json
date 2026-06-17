@@ -1,0 +1,6 @@
+{
+  "name": "單字學習系統",
+  "description": "一個精美的單字學習與測驗系統，配備完整的前台註冊登入功能、儀表板統計、互動字卡以及單字隨堂測驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
